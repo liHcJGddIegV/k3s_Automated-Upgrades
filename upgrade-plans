@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: cluster-components/upgrade-plans
-    repoURL: https://gitlab.example.com/gitops/mareshq/bee.git
+    repoURL: https://github.com/liHcJGddIegV/k3s_Automated-Upgrades.git
     targetRevision: HEAD
   syncPolicy:
     automated:
